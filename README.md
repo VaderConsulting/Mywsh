@@ -1,6 +1,6 @@
 # Mywsh
 
-VB6 working copy of `Mywsh` from Dave Robinson's OneDrive Historical Dev `VB` folder. Project title: Project1.
+VB6 Windows Script Host runner (`mywsh.vbp`) that takes a `.vbs` or `.js` path on the command line and executes it through the `MSScript` ScriptControl, loading helpers from `global.wsh`. Open `mywsh.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
